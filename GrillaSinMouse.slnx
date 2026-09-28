@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GrillaSinMouse.vcxproj" Id="79024947-ecb5-46f3-bcc2-3b296806493d" />
+</Solution>
